@@ -1,14 +1,14 @@
-1.node(npm包管理工具)
-2.cnpm
+##1.node(npm包管理工具)
+##2.cnpm
 命令： npm install -g cnpm --registry=https://registry.npm.taobao.org
-3.安装vue-cli脚手架构建工具
+##3.安装vue-cli脚手架构建工具
 命令：cnpm install -g @vue/cli
-4.查看cli版本
+##4.查看cli版本
 命令：vue -V
-5.构建项目
+##5.构建项目
 命令：vue create 项目名
-6.勾选eslint、vuex等
-7.启动
+##6.勾选eslint、vuex等
+##7.启动
 命令：npm run serve
 ---------------------------------------------------------
 # vue-test
