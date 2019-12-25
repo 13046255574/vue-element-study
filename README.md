@@ -1,4 +1,4 @@
-##1.node(npm包管理工具)
+#1.node(npm包管理工具)
 ##2.cnpm
 命令： npm install -g cnpm --registry=https://registry.npm.taobao.org
 ##3.安装vue-cli脚手架构建工具
